@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="9O36wwwC5adD3puhdQTm" name="a">
-        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="576" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -253,7 +253,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="WISMUXNzxcp451UC8hfd" name="1b">
-        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="576" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -288,7 +288,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="47575ESLJujxWZ71H_wA-15" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;providePersonalInformation()&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="47575ESLJujxWZ71H_wA-15" value="bindAPP()" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
                     <mxGeometry x="78" y="110" width="132" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="47575ESLJujxWZ71H_wA-17" value="" style="endArrow=classic;html=1;fontSize=8;dashed=1;" parent="1" edge="1">
@@ -297,14 +297,14 @@
                         <mxPoint x="75" y="156" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="47575ESLJujxWZ71H_wA-18" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Notification&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="47575ESLJujxWZ71H_wA-18" value="bindSuccess()" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
                     <mxGeometry x="120" y="133" width="70" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="uAoXt1UEMHXB3Cc8PAQZ" name="2b">
-        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="576" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -339,8 +339,8 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="srJCrKXoOjjR4iXqb_my-28" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 10px;&quot;&gt;Submitnoticecontent()&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="112" y="130" width="132" height="20" as="geometry"/>
+                <mxCell id="srJCrKXoOjjR4iXqb_my-28" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px; font-size: 11px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;submitAnnouncement&lt;/font&gt;&lt;span style=&quot;background-color: rgb(31, 31, 31);&quot;&gt;()&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="105" y="130" width="132" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="srJCrKXoOjjR4iXqb_my-29" value="" style="endArrow=classic;html=1;fontSize=8;dashed=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -348,14 +348,14 @@
                         <mxPoint x="95" y="176" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="srJCrKXoOjjR4iXqb_my-30" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 10px;&quot;&gt;publishsuccess&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="srJCrKXoOjjR4iXqb_my-30" value="submitSuccess()" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
                     <mxGeometry x="136" y="153" width="70" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="XE3xZ9O774JOqRO0a0sa" name="3b">
-        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="576" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -390,7 +390,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="D9Kd78W9JCTBzCs3Y3a4-8" value="&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Querynotices()&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="D9Kd78W9JCTBzCs3Y3a4-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;queryAnnouncement()&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
                     <mxGeometry x="119" y="109" width="72" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="D9Kd78W9JCTBzCs3Y3a4-9" value="" style="endArrow=classic;html=1;fontSize=8;dashed=1;" parent="1" edge="1">
@@ -399,14 +399,14 @@
                         <mxPoint x="75" y="156" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="D9Kd78W9JCTBzCs3Y3a4-10" value="&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Displaynotice&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="D9Kd78W9JCTBzCs3Y3a4-10" value="querySuccess()" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
                     <mxGeometry x="120" y="133" width="70" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="x3pXmPPnp-hSS5TW6-m4" name="4b">
-        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="192" dy="142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -441,7 +441,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="59yR2Mq-_b0QBDV5dDVj-8" value="&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Selectnoticeandmodify/delete()&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="59yR2Mq-_b0QBDV5dDVj-8" value="modifyOrDeleteNotification()" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="98" y="130" width="152" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="59yR2Mq-_b0QBDV5dDVj-9" value="" style="endArrow=classic;html=1;fontSize=8;dashed=1;exitX=-0.024;exitY=0.891;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="59yR2Mq-_b0QBDV5dDVj-6" edge="1">
@@ -450,14 +450,14 @@
                         <mxPoint x="95" y="176" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="59yR2Mq-_b0QBDV5dDVj-10" value="&lt;font face=&quot;Söhne Mono, Monaco, Andale Mono, Ubuntu Mono, monospace&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Displayresult&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="136" y="153" width="70" height="20" as="geometry"/>
+                <mxCell id="59yR2Mq-_b0QBDV5dDVj-10" value="modificationOrDeletionSuccessful()" style="text;whiteSpace=wrap;html=1;align=center;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="139" y="153" width="70" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="MmGIgl41rEt3Djzp3Ndo" name="5b">
-        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="576" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
